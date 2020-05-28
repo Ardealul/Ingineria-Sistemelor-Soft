@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\controller",
+    "\\domain",
+    "\\observer",
+    "\\repo",
+    "\\service"
+  ],
+  "SelectedNode": "\\repo\\BugRepo.cs",
+  "PreviewInSolutionExplorer": false
+}
